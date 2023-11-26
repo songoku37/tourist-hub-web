@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*div {*/
+/*    border: 1px solid; border-color:blue; solid-color: blue;*/
+/*}*/
+
+li{
+    display: inline-block;
+}
